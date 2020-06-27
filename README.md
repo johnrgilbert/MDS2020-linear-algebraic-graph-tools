@@ -4,7 +4,9 @@
 	
 <b>Tuesday, June 30, 1:00am Beijing / 3:00am Sydney</b>
 
-<b>Zoom:</b> <https://ucsb.zoom.us/j/91087364439?pwd=clVIZkMrRVhCOWZoczVyUnNSZ3ZIUT09>
+<b>Zoom link:</b> <https://ucsb.zoom.us/j/91087364439?pwd=clVIZkMrRVhCOWZoczVyUnNSZ3ZIUT09>
+
+<b>Materials:</b> <https://github.com/johnrgilbert/MDS2020-linear-algebraic-graph-tools>
 
 Large-scale computations on networks and graphs arise in many areas of modern data science. Graph theory and linear algebra are of course intimately linked. This minisymposium will highlight tools from sparse matrix computation that are being used to develop efficient implementations of graph algorithms. Such tools range from linear algebra over semirings to fast solvers for Laplacian linear systems.
 
@@ -32,13 +34,13 @@ video)<br>
 Timothy A. Davis, Texas A&M University
 
 <b>1:52-2:18: High Performance Linear System Solvers with Focus on Graph Laplacians</b>
-([abstract](https://meetings.siam.org/sess/dsp_talk.cfm?p=102806); slides; video)<br>
-[slides](); 
+([abstract](https://meetings.siam.org/sess/dsp_talk.cfm?p=102806);
+[slides](MS142-Peng-Slides.pdf); 
 video)<br>
 Richard Peng, Georgia Institute of Technology
 
 <b>2:18-2:44: Sparse Matrices Beyond Solvers: Graphs, Biology, and Machine Learning</b>
-([abstract](https://meetings.siam.org/sess/dsp_talk.cfm?p=102807); slides; video)<br>
+([abstract](https://meetings.siam.org/sess/dsp_talk.cfm?p=102807);
 slides; 
 video)<br>
 Aydin Buluc, Lawrence Berkeley National Laboratory
