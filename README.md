@@ -13,22 +13,23 @@ In the former area, matrices over various semirings describe the kernels of a wi
 The minisymposium opens with two talks on sparse semirings for graph computation, the first on theory and the second on efficient implementation and software. The last two talks highlight current work in graph Laplacians and their applications, and describe a number of applications of the linear algebraic approach to graph computation.
 This minisymposium is organized under the auspices of the SIAM Activity Group on Applied and Computational Discrete Algorithms.
 
-<b>Organizers:</b> 	John R. Gilbert, University of California, Santa Barbara
-		Jeremy Kepner, Massachusetts Institute of Technology
+<b>Organizers:</b> 	
+* John R. Gilbert, University of California, Santa Barbara
+* Jeremy Kepner, Massachusetts Institute of Technology
 
 <b>Date and Time:</b> Monday, June 29, 2020, 1:00pm - 3:00pm Eastern Daylight Time 
 
-<b>1:00-1:26 Mathematical Foundations of the GraphBLAS and Big Data ([abstract](https://meetings.siam.org/sess/dsp_talk.cfm?p=102804); slides; video)</b>
+<b>1:00-1:26: Mathematical Foundations of the GraphBLAS and Big Data</b> ([abstract](https://meetings.siam.org/sess/dsp_talk.cfm?p=102804); slides; video)<br>
 Jeremy Kepner, Massachusetts Institute of Technology; Hayden Jananthan, Vanderbilt University
 
-1:26-1:52 SuiteSparse:GraphBLAS, a Parallel Implementation of the GraphBLAS Specification (abstract; slides; video)
+<b>1:26-1:52: SuiteSparse:GraphBLAS, a Parallel Implementation of the GraphBLAS Specification</b> (abstract; slides; video)<br>
 Timothy A. Davis, Texas A&M University
 
-1:52-2:18 High Performance Linear System Solvers with Focus on Graph Laplacians (abstract; slides; video)
+<b>1:52-2:18: High Performance Linear System Solvers with Focus on Graph Laplacians</b> (abstract; slides; video)<br>
 Richard Peng, Georgia Institute of Technology
 
-2:18-2:44 Sparse Matrices Beyond Solvers: Graphs, Biology, and Machine Learning (abstract; slides; video)
+<b>2:18-2:44: Sparse Matrices Beyond Solvers: Graphs, Biology, and Machine Learning</b> (abstract; slides; video)<br>
 Aydin Buluc, Lawrence Berkeley National Laboratory
 
-2:44-3:00 Questions and Discussion (video)
+<b>2:44-3:00: Questions and Discussion</b> (video)
 
