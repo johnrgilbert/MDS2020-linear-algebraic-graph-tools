@@ -41,7 +41,7 @@ Richard Peng, Georgia Institute of Technology
 
 <b>2:18-2:44: Sparse Matrices Beyond Solvers: Graphs, Biology, and Machine Learning</b>
 ([abstract](https://meetings.siam.org/sess/dsp_talk.cfm?p=102807);
-slides; 
+[slides](MS142-Buluc-Slides.pdf); 
 video)<br>
 Aydin Buluc, Lawrence Berkeley National Laboratory
 
