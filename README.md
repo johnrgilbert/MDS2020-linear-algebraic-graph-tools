@@ -4,7 +4,7 @@
 	
 <b>Tuesday, June 30, 1:00am Beijing / 3:00am Sydney</b>
 
-<b>Zoom:</b> https://ucsb.zoom.us/j/91087364439?pwd=clVIZkMrRVhCOWZoczVyUnNSZ3ZIUT09
+<b>Zoom:</b> <https://ucsb.zoom.us/j/91087364439?pwd=clVIZkMrRVhCOWZoczVyUnNSZ3ZIUT09>
 
 Large-scale computations on networks and graphs arise in many areas of modern data science. Graph theory and linear algebra are of course intimately linked. This minisymposium will highlight tools from sparse matrix computation that are being used to develop efficient implementations of graph algorithms. Such tools range from linear algebra over semirings to fast solvers for Laplacian linear systems.
 
@@ -19,17 +19,30 @@ This minisymposium is organized under the auspices of the SIAM Activity Group on
 
 <b>Date and Time:</b> Monday, June 29, 2020, 1:00pm - 3:00pm Eastern Daylight Time 
 
-<b>1:00-1:26: Mathematical Foundations of the GraphBLAS and Big Data</b> ([abstract](https://meetings.siam.org/sess/dsp_talk.cfm?p=102804); [slides](MS142 Kepner Slides.pdf); video)<br>
+<b>1:00-1:26: Mathematical Foundations of the GraphBLAS and Big Data</b> 
+([abstract](https://meetings.siam.org/sess/dsp_talk.cfm?p=102804);
+[slides](MS142-Kepner-Slides.pdf);
+video)<br>
 Jeremy Kepner, Massachusetts Institute of Technology; Hayden Jananthan, Vanderbilt University
 
-<b>1:26-1:52: SuiteSparse:GraphBLAS, a Parallel Implementation of the GraphBLAS Specification</b> ([abstract](https://meetings.siam.org/sess/dsp_talk.cfm?p=102805); slides; video)<br>
+<b>1:26-1:52: SuiteSparse:GraphBLAS, a Parallel Implementation of the GraphBLAS Specification</b>
+([abstract](https://meetings.siam.org/sess/dsp_talk.cfm?p=102805); 
+slides; 
+video)<br>
 Timothy A. Davis, Texas A&M University
 
-<b>1:52-2:18: High Performance Linear System Solvers with Focus on Graph Laplacians</b> ([abstract](https://meetings.siam.org/sess/dsp_talk.cfm?p=102806); slides; video)<br>
+<b>1:52-2:18: High Performance Linear System Solvers with Focus on Graph Laplacians</b>
+([abstract](https://meetings.siam.org/sess/dsp_talk.cfm?p=102806); slides; video)<br>
+[slides](); 
+video)<br>
 Richard Peng, Georgia Institute of Technology
 
-<b>2:18-2:44: Sparse Matrices Beyond Solvers: Graphs, Biology, and Machine Learning</b> ([abstract](https://meetings.siam.org/sess/dsp_talk.cfm?p=102807); slides; video)<br>
+<b>2:18-2:44: Sparse Matrices Beyond Solvers: Graphs, Biology, and Machine Learning</b>
+([abstract](https://meetings.siam.org/sess/dsp_talk.cfm?p=102807); slides; video)<br>
+slides; 
+video)<br>
 Aydin Buluc, Lawrence Berkeley National Laboratory
 
-<b>2:44-3:00: Questions and Discussion</b> (video)
+<b>2:44-3:00: Questions and Discussion</b>
+(video)
 
