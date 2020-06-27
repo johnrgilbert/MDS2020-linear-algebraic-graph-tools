@@ -21,6 +21,8 @@ This minisymposium is organized under the auspices of the SIAM Activity Group on
 
 <b>Date and Time:</b> Monday, June 29, 2020, 1:00pm - 3:00pm Eastern Daylight Time 
 
+<b>Zoom link:</b> <https://ucsb.zoom.us/j/91087364439?pwd=clVIZkMrRVhCOWZoczVyUnNSZ3ZIUT09>
+
 <b>1:00-1:26: Mathematical Foundations of the GraphBLAS and Big Data</b> 
 ([abstract](https://meetings.siam.org/sess/dsp_talk.cfm?p=102804);
 [slides](MS142-Kepner-Slides.pdf);
