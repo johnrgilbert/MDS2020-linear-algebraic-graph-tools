@@ -29,7 +29,7 @@ Jeremy Kepner, Massachusetts Institute of Technology; Hayden Jananthan, Vanderbi
 
 <b>1:26-1:52: SuiteSparse:GraphBLAS, a Parallel Implementation of the GraphBLAS Specification</b>
 ([abstract](https://meetings.siam.org/sess/dsp_talk.cfm?p=102805); 
-slides; 
+[slides](MS142-Davis-Slides.pdf); 
 video)<br>
 Timothy A. Davis, Texas A&M University
 
