@@ -8,7 +8,7 @@
 
 <b>Talk slides:</b> <https://github.com/johnrgilbert/MDS2020-linear-algebraic-graph-tools>
 
-<b>[How to find the videos](https://docs.google.com/document/d/1ugjIXQrRsyGlaQ0vXXi3Q7NdYjl6q2b6mHvuhEexenY/edit#bookmark=id.wcwhmsdujsf7)</b>
+<b>[Talk videos](https://docs.google.com/document/d/1ugjIXQrRsyGlaQ0vXXi3Q7NdYjl6q2b6mHvuhEexenY/edit#bookmark=id.wcwhmsdujsf7)</b>
 
 Large-scale computations on networks and graphs arise in many areas of modern data science. Graph theory and linear algebra are of course intimately linked. This minisymposium will highlight tools from sparse matrix computation that are being used to develop efficient implementations of graph algorithms. Such tools range from linear algebra over semirings to fast solvers for Laplacian linear systems.
 
