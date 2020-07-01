@@ -50,5 +50,5 @@ Richard Peng, Georgia Institute of Technology
 Aydin Buluc, Lawrence Berkeley National Laboratory
 
 <b>2:44-3:00: Questions and Discussion</b>
-[video](https://docs.google.com/document/d/1ugjIXQrRsyGlaQ0vXXi3Q7NdYjl6q2b6mHvuhEexenY/edit#bookmark=id.wcwhmsdujsf7))<br>
+([video](https://docs.google.com/document/d/1ugjIXQrRsyGlaQ0vXXi3Q7NdYjl6q2b6mHvuhEexenY/edit#bookmark=id.wcwhmsdujsf7))<br>
 
