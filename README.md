@@ -28,19 +28,19 @@ This minisymposium is organized under the auspices of the SIAM Activity Group on
 <b>1:00-1:26: Mathematical Foundations of the GraphBLAS and Big Data</b> 
 ([abstract](https://meetings.siam.org/sess/dsp_talk.cfm?p=102804);
 [slides](MS142-Kepner-Slides.pdf);
-[video](https://docs.google.com/document/d/1ugjIXQrRsyGlaQ0vXXi3Q7NdYjl6q2b6mHvuhEexenY/edit#bookmark=id.wcwhmsdujsf7))<br>
+[video](https://youtu.be/gZSNp6XbOK8?t=6))<br>
 Jeremy Kepner, Massachusetts Institute of Technology; Hayden Jananthan, Vanderbilt University
 
 <b>1:26-1:52: SuiteSparse:GraphBLAS, a Parallel Implementation of the GraphBLAS Specification</b>
 ([abstract](https://meetings.siam.org/sess/dsp_talk.cfm?p=102805); 
 [slides](MS142-Davis-Slides.pdf); 
-[video](https://docs.google.com/document/d/1ugjIXQrRsyGlaQ0vXXi3Q7NdYjl6q2b6mHvuhEexenY/edit#bookmark=id.wcwhmsdujsf7))<br>
+[video](https://youtu.be/gZSNp6XbOK8?t=1721))<br>
 Timothy A. Davis, Texas A&M University
 
 <b>1:52-2:18: High Performance Linear System Solvers with Focus on Graph Laplacians</b>
 ([abstract](https://meetings.siam.org/sess/dsp_talk.cfm?p=102806);
 [slides](MS142-Peng-Slides.pdf); 
-[video](https://docs.google.com/document/d/1ugjIXQrRsyGlaQ0vXXi3Q7NdYjl6q2b6mHvuhEexenY/edit#bookmark=id.wcwhmsdujsf7))<br>
+[video](https://www.youtube.com/watch?v=EdI4PtZJXIQ))<br>
 Richard Peng, Georgia Institute of Technology
 
 <b>2:18-2:44: Sparse Matrices Beyond Solvers: Graphs, Biology, and Machine Learning</b>
@@ -50,5 +50,5 @@ Richard Peng, Georgia Institute of Technology
 Aydin Buluc, Lawrence Berkeley National Laboratory
 
 <b>2:44-3:00: Questions and Discussion</b>
-([video](https://docs.google.com/document/d/1ugjIXQrRsyGlaQ0vXXi3Q7NdYjl6q2b6mHvuhEexenY/edit#bookmark=id.wcwhmsdujsf7))<br>
+([video](https://www.youtube.com/watch?v=6_o_a_meIn8))<br>
 
